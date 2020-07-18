@@ -14,7 +14,7 @@
   },
   "social_media_url": "https://twitter.com/jas4711",
   "source": {
-    "git": "https://github.com/chrisballinger/libidn-framework.git",
+    "git": "https://github.com/karimhm/libidn-framework.git",
     "tag": "1.36"
   },
   "platforms": {
