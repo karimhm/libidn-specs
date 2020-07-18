@@ -1,0 +1,1 @@
+# libidn Test CocoaPods Specs
